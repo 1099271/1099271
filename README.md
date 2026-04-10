@@ -33,10 +33,6 @@ Spent years as the senior tech leader at SMBs, scaling a PMS platform to 200K+ m
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1099271&theme=transparent&show_icons=true&hide_border=true)
-
 ---
 
 <details>
