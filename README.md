@@ -17,7 +17,9 @@
 
 SaaS → Big Tech → Startup → AI Native.
 
-Spent years as the senior tech leader at SMBs, scaling a PMS platform to 200K+ merchants and managing a 40-person engineering team. Then joined a public OTA as a tech expert, expanding from vertical SaaS into the broader travel & hospitality industry. When LLMs changed the game, I went all-in — built my own startup from scratch as CTO. Now at [nexad](https://nex.ad), using AI agents to build AI agents.
+- Spent years as the senior tech leader at SMBs, scaling a PMS platform to 200K+ merchants and managing a 40-person engineering team. 
+- Then joined a public OTA as a tech expert, expanding from vertical SaaS into the broader travel & hospitality industry. 
+- When LLMs changed the game, I went all-in — built my own startup from scratch as CTO. Now at [nexad](https://nex.ad), using AI agents to build AI agents.
 
 ### Latest Writing
 
