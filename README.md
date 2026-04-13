@@ -19,7 +19,8 @@ SaaS → Big Tech → Startup → AI Native.
 
 - Spent years as the senior tech leader at SMBs, scaling a PMS platform to 200K+ merchants and managing a 40-person engineering team. 
 - Then joined a public OTA as a tech expert, expanding from vertical SaaS into the broader travel & hospitality industry. 
-- When LLMs changed the game, I went all-in — built my own startup from scratch as CTO. Now at [nexad](https://nex.ad), using AI agents to build AI agents.
+- When LLMs changed the game, I went all-in — built my own startup from scratch as CTO.
+- Now at [nexad](https://nex.ad), using AI agents to build AI agents.
 
 ### Latest Writing
 
@@ -46,7 +47,11 @@ SaaS → Big Tech → Startup → AI Native.
 
 SaaS → 大厂 → 创业 → AI Native。
 
-做过中小公司的技术一号位，把一个 PMS 平台从零做到服务 20 万+商户，管理 40 人技术团队。之后加入上市 OTA 做集团技术专家，视野从垂类 SaaS 拓展到整个文旅行业。大模型浪潮来了，All in 创业，从零 build 了自己的 startup。现在在 [nexad](https://nex.ad)，用 AI Agent 来构建 AI Agent。
+- Hi，我是大米。
+- 做过中小公司的技术一号位，把一个 PMS 平台从零做到服务 20 万+商户，管理过 40 人技术团队。
+- 之后加入上市 OTA 做集团技术专家，视野从垂类 SaaS 拓展到整个文旅行业，也从垂类的 Saas 扩展到了整个文旅板块的信息化。
+- 23 年之后，大模型浪潮来了，All in 创业，从零 build 了自己的 startup。
+- 现在在 [nexad](https://nex.ad)，用 AI Agent 来构建 AI Agent。
 
 ### 最新文章
 
