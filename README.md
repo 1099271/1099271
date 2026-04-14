@@ -23,16 +23,6 @@ SaaS → Big Tech → Startup → AI Native.
 
 📝 [Building AI Agents with AI Agents: Harness Engineering at Nexad](https://x.com/onjas_6/status/2039726703539564783) — Lessons from harnessing Coding Agents to build Marketing Agents in production: delivery tiers, context-isolated review, progressive disclosure, and the practices we shaped along the way.
 
-### Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
 ---
 
 <details>
